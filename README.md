@@ -1,2 +1,2 @@
 # canvas-test
-Testing the canvas repo
+Testing the canvas api
